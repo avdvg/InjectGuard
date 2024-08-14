@@ -1,0 +1,35 @@
+# Python
+__pycache__
+.ipynb_checkpoints
+.venv
+venv
+build
+dist
+.pytype
+*.egg-info
+
+# IDE
+.vscode
+.idea
+
+# Environment files
+.env
+env
+
+# Dataset/Log files
+*.log
+
+
+# Extras
+.DS_Store
+*.pickle
+
+# NPM
+node_modules
+package-lock.json
+package.json
+
+# Allow json files for docs
+!/docs/*.json
+
+tmp_custom.yaml

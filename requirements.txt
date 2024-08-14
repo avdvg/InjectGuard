@@ -1,0 +1,5 @@
+langchain==0.2.13
+langchain_community==0.2.12
+numpy==2.0.1
+scikit_learn==1.5.1
+tqdm==4.66.5
